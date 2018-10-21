@@ -1,0 +1,9 @@
+---
+Title: Como Ver drivers instalados no Windows
+Published: 2018-10-13 15:30
+Template: blog
+---
+Como Ver drivers instalados no Windows. Se você estiver solucionando problemas de hardware ou simplesmente quiser saber se algo está instalado com sucesso, ver uma lista de drivers instalados pode ajudar: digite `driverquery`, pressione Enter e você obtém uma lista de todos os drivers atuais do Windows, juntamente com datas de instalação e nomes. [--more--]
+
+
+	driverquery
