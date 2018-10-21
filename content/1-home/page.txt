@@ -3,4 +3,3 @@ Title: Home
 ---
 Your website works!
 
-You can [edit this page] or use your text editor.

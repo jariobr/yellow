@@ -3,3 +3,97 @@ Disallow: /harming/humans
 Disallow: /harming/machines
 Disallow: /risking/own/existence
 Disallow: /edit/
+Disallow: /media/images 
+Disallow: /media/thumbnails
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: Googlebot-news
+Disallow: /harming/humans
+Disallow: /harming/machines
+Disallow: /risking/own/existence
+Disallow: /edit/
+
+User-agent: Applebot
+Disallow: /harming/humans
+Disallow: /harming/machines
+Disallow: /risking/own/existence
+Disallow: /edit/
+
+User-agent: baiduspider
+Disallow: /harming/humans
+Disallow: /harming/machines
+Disallow: /risking/own/existence
+Disallow: /edit/
+
+User-agent: Bingbot
+Disallow: /harming/humans
+Disallow: /harming/machines
+Disallow: /risking/own/existence
+Disallow: /edit/
+
+User-agent: Googlebot
+Disallow: /harming/humans
+Disallow: /harming/machines
+Disallow: /risking/own/existence
+Disallow: /edit/
+
+User-agent: msnbot
+Disallow: /harming/humans
+Disallow: /harming/machines
+Disallow: /risking/own/existence
+Disallow: /edit/
+
+User-agent: Naverbot
+Disallow: /harming/humans
+Disallow: /harming/machines
+Disallow: /risking/own/existence
+Disallow: /edit/
+
+User-agent: seznambot
+Disallow: /harming/humans
+Disallow: /harming/machines
+Disallow: /risking/own/existence
+Disallow: /edit/
+
+User-agent: Slurp
+Disallow: /harming/humans
+Disallow: /harming/machines
+Disallow: /risking/own/existence
+Disallow: /edit/
+
+User-agent: teoma
+Disallow: /harming/humans
+Disallow: /harming/machines
+Disallow: /risking/own/existence
+Disallow: /edit/
+
+User-agent: Twitterbot
+Disallow: /harming/humans
+Disallow: /harming/machines
+Disallow: /risking/own/existence
+Disallow: /edit/
+
+User-agent: Yandex
+Disallow: /harming/humans
+Disallow: /harming/machines
+Disallow: /risking/own/existence
+Disallow: /edit/
+
+User-agent: Yeti
+Disallow: /harming/humans
+Disallow: /harming/machines
+Disallow: /risking/own/existence
+Disallow: /edit/
+
+# change domain.tld
+Host: domain.tld
+
+Sitemap: https://domain.tld/sitemap/page:sitemap.xml
+Sitemap: https://domain.tld/wikimap/page:wikimap.xml
+Sitemap: https://domain.tld/blogmap/page:blogmap.xml
+Sitemap: https://domain.tld/feed/page:feed.xml

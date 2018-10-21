@@ -1,4 +1,14 @@
 ---
 Title: File not found
 ---
-The requested file was not found. Oh no...
+
+
+### Wiki Artigos aleatórios
+[random /wiki/ 10 1]
+
+### Blog Artigos aleatórios
+[random /blog/ 10 1]
+
+### Artigos aleatórios
+
+[random / 10 1]
